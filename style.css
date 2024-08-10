@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(92, 131, 147);
+    background-color: rgb(92, 131, 147);      
     text-align: center;
 }
 
@@ -12,7 +12,7 @@ body{
     height: 70vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;                
 }
 
 .game{
